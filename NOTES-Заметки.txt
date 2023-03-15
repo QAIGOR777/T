@@ -1,0 +1,11 @@
+Добрый день!
+
+
+Прикрепляю MVP проекта по заданию: 
+1. app.py починил при помощи WTForms errors #34 (из https://github.com/anfederico/flaskex/issues/34)
+2. На Docker посадил, image Size	921,4MB
+3. Т.к. версия MVP то Dockerfile и docker-compose.yaml имеют сокращённый вариант, необходимый и достаточный для того, чтобы Docker крутится на Kitematic.exe и можно было управлять контейнером
+
+Прошу строго не судить - есть тяга к познаниям
+
+С Уважением, Игорь pe3bahob@mail.ru
